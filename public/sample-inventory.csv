@@ -1,0 +1,20 @@
+sku,product_name,warehouse,movement_type,quantity,unit_cost,movement_date,reference
+A100,Oil Filter - Standard,Main Warehouse,IN,50,45.99,2025-03-01,PO-1001
+A100,Oil Filter - Standard,Main Warehouse,OUT,15,45.99,2025-03-02,SO-2001
+A101,Oil Filter - Premium,Main Warehouse,IN,30,65.50,2025-03-01,PO-1001
+B200,Spark Plug - Standard,Main Warehouse,IN,100,12.50,2025-03-01,PO-1002
+B200,Spark Plug - Standard,Secondary Warehouse,IN,50,12.50,2025-03-01,PO-1003
+B200,Spark Plug - Standard,Main Warehouse,OUT,25,12.50,2025-03-03,SO-2002
+B201,Spark Plug - Platinum,Main Warehouse,IN,75,24.99,2025-03-01,PO-1002
+C300,Air Filter - Sedan,Main Warehouse,IN,60,28.75,2025-03-02,PO-1004
+C300,Air Filter - Sedan,Main Warehouse,OUT,20,28.75,2025-03-04,SO-2003
+D400,Brake Pad Set - Front,Main Warehouse,IN,40,65.00,2025-03-01,PO-1005
+D401,Brake Pad Set - Rear,Main Warehouse,IN,35,55.00,2025-03-01,PO-1005
+E500,Windshield Wiper - 20in,Main Warehouse,IN,80,15.99,2025-03-02,PO-1006
+E500,Windshield Wiper - 20in,Distribution Center,IN,40,15.99,2025-03-02,PO-1007
+F600,Headlight Bulb - Halogen,Main Warehouse,IN,120,8.50,2025-03-01,PO-1008
+G700,Motor Oil 5W-30 - 1Qt,Main Warehouse,IN,200,8.99,2025-03-01,PO-1009
+G700,Motor Oil 5W-30 - 1Qt,Main Warehouse,OUT,50,8.99,2025-03-05,SO-2004
+H800,Antifreeze - 1Gal,Main Warehouse,IN,100,12.99,2025-03-02,PO-1010
+I900,Battery - Standard,Main Warehouse,IN,25,125.00,2025-03-03,PO-1011
+I900,Battery - Standard,Main Warehouse,OUT,3,125.00,2025-03-06,SO-2005

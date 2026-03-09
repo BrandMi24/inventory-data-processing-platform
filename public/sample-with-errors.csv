@@ -1,0 +1,13 @@
+sku,product_name,warehouse,movement_type,quantity,unit_cost,movement_date,reference
+A100,Oil Filter - Standard,Main Warehouse,IN,50,45.99,2025-03-01,PO-TEST-001
+A100,Oil Filter - Standard,Main Warehouse,OUT,15,45.99,2025-03-02,SO-TEST-001
+,Missing SKU Product,Main Warehouse,IN,10,25.00,2025-03-03,PO-TEST-002
+B200,Spark Plug - Standard,,IN,100,12.50,2025-03-01,PO-TEST-003
+C300,Air Filter - Sedan,Main Warehouse,INVALID,20,28.75,2025-03-04,SO-TEST-002
+D400,Brake Pad Set - Front,Main Warehouse,IN,-5,65.00,2025-03-01,PO-TEST-004
+D401,Brake Pad Set - Rear,Main Warehouse,IN,35,invalid_cost,2025-03-01,PO-TEST-005
+E500,Windshield Wiper - 20in,Main Warehouse,IN,80,15.99,not-a-date,PO-TEST-006
+F600,Headlight Bulb - Halogen,Main Warehouse,IN,,8.50,2025-03-01,PO-TEST-007
+G700,Motor Oil 5W-30 - 1Qt,Main Warehouse,IN,200,8.99,2025-03-01,PO-TEST-008
+G700,Motor Oil 5W-30 - 1Qt,Main Warehouse,IN,200,8.99,2025-03-01,PO-TEST-008
+H800,Antifreeze - 1Gal,Main Warehouse,IN,100,12.99,2025-03-02,PO-TEST-009
